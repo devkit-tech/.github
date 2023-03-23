@@ -1,6 +1,6 @@
 # Welcome to Devkit
 
-![alt text](./assets/logo.png)
+![alt text](/assets/logo.png)
 
 ## What is Devkit ?
 Devkit is an IT Solutions company founded in 2022.
